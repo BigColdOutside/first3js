@@ -3,7 +3,7 @@ let camera, scene, renderer, cube;
 function init() {
 	// Init scene
 	scene = new THREE.Scene();
-
+  //hon -test
 	// Init camera (PerspectiveCamera)
 	camera = new THREE.PerspectiveCamera(
 		75,
